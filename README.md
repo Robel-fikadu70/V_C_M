@@ -38,9 +38,8 @@ python vacuumCleaner.py
 
     - clock.tick(2): Change simulation speed
 
-Code Structure
-# Initialize pygame and grid
-# Main game loop:
-#   1. Draw grid and agent
-#   2. Move agent
-#   3. Clean current cell if dirty
+## Initialize pygame and grid
+### Main game loop:
+-  1. Draw grid and agent
+-  2. Move agent
+-  3. Clean current cell if dirty
